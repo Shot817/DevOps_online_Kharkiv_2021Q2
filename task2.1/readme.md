@@ -6,4 +6,3 @@ different typer of network connection.
 Second task of homework was download and install vagrant which i intalled using
 chocolatey addition with command choco install vagrant in powershell on my pc,then
 i ran vargant and made connection to VM using putty.
-Few screenshots of work are in the same folder as this readme
