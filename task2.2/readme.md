@@ -1,1 +1,1 @@
-![Linux Machine created on Lightsail](/creadtedLa.png)
+![Linux Machine created on Lightsail](images/creadtedLa.png)
