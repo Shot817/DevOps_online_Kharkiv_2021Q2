@@ -23,9 +23,8 @@
 
  ![5](images/gg.png)
 
- 
  Created bucket - task 11
 
  ![5](images/bucket.png)
 
- http://yarmak.s3-website.eu-central-1.amazonaws.com - task 15
+ http://yarmakbucket.s3-website.eu-central-1.amazonaws.com - task 15
